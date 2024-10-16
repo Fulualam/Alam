@@ -1,4 +1,4 @@
 # Alam
 This is my first repository
 <br>
-Author - Intesar
+Author - Intesar Alam
